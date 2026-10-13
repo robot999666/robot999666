@@ -14,7 +14,6 @@
 </p>
 
 <p align="center">
-  <b>首都师范大学 · 计算机科学与技术</b><br />
   <sub>把好奇心写成代码，也把每一次理解认真留下来。</sub>
 </p>
 
@@ -64,10 +63,6 @@
 <details>
   <summary>关于这扇小窗</summary>
 
-横幅、插画与动画独立制作，延续 [窗边手记](https://github.com/robot999666/window-notes) 的暖纸与鼠尾草绿风格。
-
 布局灵感来自 [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)、[DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) 和 [Anthony Fu](https://github.com/antfu/antfu) 的个人首页。
-
-所有图片都保存在本仓库。支持减少动态效果的浏览器会显示静态横幅。
 
 </details>
