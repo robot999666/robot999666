@@ -1,9 +1,11 @@
 <p align="center">
-  <a href="http://152.136.191.171:8088/">
+  <a href="http://152.136.191.171:8088/#gh-dark-mode-only">
     <picture>
       <source media="(prefers-reduced-motion: reduce)" srcset="./assets/window-garden-dark-still.png#gh-dark-mode-only" />
       <img src="./assets/window-garden-dark.gif#gh-dark-mode-only" width="100%" loading="lazy" alt="robot999666 · 慢慢写代码，也慢慢记录生活。萤火流动、植物摇摆与打字动效。" />
     </picture>
+  </a>
+  <a href="http://152.136.191.171:8088/#gh-light-mode-only">
     <picture>
       <source media="(prefers-reduced-motion: reduce)" srcset="./assets/window-garden-light-still.png#gh-light-mode-only" />
       <img src="./assets/window-garden-light.gif#gh-light-mode-only" width="100%" loading="lazy" alt="robot999666 · 慢慢写代码，也慢慢记录生活。萤火流动、植物摇摆与打字动效。" />
@@ -17,8 +19,10 @@
 </p>
 
 <p align="center">
-  <a href="http://152.136.191.171:8088/">
+  <a href="http://152.136.191.171:8088/#gh-dark-mode-only">
     <img src="./assets/blog-entry-dark.png#gh-dark-mode-only" width="420" alt="打开窗边手记 · 个人博客" />
+  </a>
+  <a href="http://152.136.191.171:8088/#gh-light-mode-only">
     <img src="./assets/blog-entry-light.png#gh-light-mode-only" width="420" alt="打开窗边手记 · 个人博客" />
   </a>
 </p>
