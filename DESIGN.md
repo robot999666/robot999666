@@ -4,10 +4,12 @@
 
 ## 动画与入口
 
-- assets/window-garden.gif：原生 GIF 循环动画，作为个人首页横幅。
-- assets/window-garden.svg：原创可编辑的矢量动画源。
-- assets/window-garden-still.png：减少动态效果时的静态替代；SVG 版本也保留在 assets/。
-- assets/blog-entry.png：博客入口按钮；SVG 矢量源可编辑。链接由 README 外层锚点设置。
+- assets/window-garden-dark.gif / window-garden-light.gif：80 帧、8 秒循环，根据 GitHub 的深浅主题选择。
+- assets/window-garden-dark.svg / window-garden-light.svg：可编辑的高对比度矢量动画。
+- assets/window-garden-dark-still.png / window-garden-light-still.png：减少动态效果时的主题对应静态替代。
+- assets/blog-entry-dark.png / blog-entry-light.png：主题对应的博客入口按钮，矢量源也保留在 assets/。链接由 README 外层锚点设置。
+
+新版增强了植物摇摆、流星、萤火与打字揭示动效，主标题和说明文字增大。使用 GitHub 原生的 gh-dark-mode-only / gh-light-mode-only 图片标记，跟随 GitHub 实际主题；减少动态效果仍使用 picture 的静态替代。原始 window-garden.svg 保留为花园插画基础源，由生成脚本组合新版主题素材。
 
 资产都由本仓库托管，不依赖外部打字或统计卡服务。图片内没有脚本；相对资源链接会由 GitHub 渲染为仓库图片。
 

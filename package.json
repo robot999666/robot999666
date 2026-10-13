@@ -4,6 +4,6 @@
   "version": "1.0.0",
   "type": "module",
   "engines": { "node": ">=22" },
-  "scripts": { "assets": "node scripts/render-assets.mjs" },
+  "scripts": { "assets": "node scripts/create-theme-assets.mjs && node scripts/render-theme-assets.mjs" },
   "devDependencies": { "playwright": "1.64.0" }
 }
