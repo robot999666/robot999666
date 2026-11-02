@@ -23,7 +23,7 @@ for (const [theme, c] of Object.entries(palettes)) {
 <text x="58" y="120" fill="${c.muted}" font-size="20">HELLO, I'M</text><text x="54" y="191" fill="${c.title}" font-size="70" font-weight="700" letter-spacing="-2">robot999666</text>
 <text x="58" y="244" fill="${c.text}" font-size="27" font-weight="500">慢慢写代码，也慢慢记录生活。</text>
 <g clip-path="url(#typing)"><text x="58" y="314" fill="${c.accent}" font-size="24" font-family="'Courier New',monospace">&gt; build. learn. share.</text></g>
-<text x="58" y="366" fill="${c.muted}" font-size="19">首都师范大学 · 计算机科学与技术</text></g>
+</g>
 <rect x="58" y="330" width="460" height="3" rx="1.5" fill="${c.line}"/><rect y="330" width="95" height="3" rx="1.5" fill="url(#glow)"><animate attributeName="x" values="58;423;58" dur="3s" repeatCount="indefinite"/></rect>
 ${stars}<path d="M735 44l86 22" stroke="${c.accent}" stroke-width="2" opacity=".8"><animateTransform attributeName="transform" type="translate" values="-20 -10;120 80;-20 -10" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="4s" repeatCount="indefinite"/></path>${garden}</svg>`;
   await writeFile(new URL(`../assets/window-garden-${theme}.svg`,import.meta.url),svg);

@@ -1,14 +1,14 @@
 <p align="center">
   <a href="http://152.136.191.171:8088/#gh-dark-mode-only">
     <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/window-garden-dark-still.png#gh-dark-mode-only" />
-      <img src="./assets/window-garden-dark.gif#gh-dark-mode-only" width="100%" loading="lazy" alt="robot999666 · 慢慢写代码，也慢慢记录生活。萤火流动、植物摇摆与打字动效。" />
+      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/window-garden-dark-still.png?v=20261102#gh-dark-mode-only" />
+      <img src="./assets/window-garden-dark.gif?v=20261102#gh-dark-mode-only" width="100%" loading="lazy" alt="robot999666 · 慢慢写代码，也慢慢记录生活。萤火流动、植物摇摆与打字动效。" />
     </picture>
   </a>
   <a href="http://152.136.191.171:8088/#gh-light-mode-only">
     <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/window-garden-light-still.png#gh-light-mode-only" />
-      <img src="./assets/window-garden-light.gif#gh-light-mode-only" width="100%" loading="lazy" alt="robot999666 · 慢慢写代码，也慢慢记录生活。萤火流动、植物摇摆与打字动效。" />
+      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/window-garden-light-still.png?v=20261102#gh-light-mode-only" />
+      <img src="./assets/window-garden-light.gif?v=20261102#gh-light-mode-only" width="100%" loading="lazy" alt="robot999666 · 慢慢写代码，也慢慢记录生活。萤火流动、植物摇摆与打字动效。" />
     </picture>
   </a>
 </p>
